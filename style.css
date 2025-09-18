@@ -54,16 +54,16 @@ button:active {
 }
 
 .operator {
-    background-color: #f2a33c;
+    background-color: #5cb85c;
     color: white;
 }
 
 .operator:hover {
-    background-color: #e6952a;
+    background-color: #4cae4c;
 }
 
 .operator:active {
-    background-color: #d98718;
+    background-color: #449d44;
 }
 
 #plus {
